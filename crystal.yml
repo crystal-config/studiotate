@@ -1,0 +1,4 @@
+name: studiotate
+type: configuration
+version: 0.1.0
+description: '[Studio Tate](http://studiotate.com) Configuration for [Crystal](http://crystal.sh)'
